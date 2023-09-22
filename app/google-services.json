@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "292084925983",
+    "firebase_url": "https://connect-f20a1-default-rtdb.firebaseio.com",
+    "project_id": "connect-f20a1",
+    "storage_bucket": "connect-f20a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292084925983:android:afae6afa12155a79b6f72a",
+        "android_client_info": {
+          "package_name": "com.trijalgunaseelan.connectthemessager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292084925983-ljvrrc5cn681sdemjoiisrfc510cso97.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trijalgunaseelan.connectthemessager",
+            "certificate_hash": "0e28f1c3b40943d938999bc220b9fb4de6deb33f"
+          }
+        },
+        {
+          "client_id": "292084925983-q65s3tqrq6sns93s2ckgosugv6vdtuj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQJ6Hu5dv9lp0ZjzZV8zkp91QtbHUHqYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292084925983-q65s3tqrq6sns93s2ckgosugv6vdtuj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

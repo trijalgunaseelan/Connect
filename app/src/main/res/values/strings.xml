@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Connect</string>
+        <string name="database_url">https://connect-f20a1-default-rtdb.firebaseio.com/</string>
+</resources>
